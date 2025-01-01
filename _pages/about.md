@@ -54,7 +54,7 @@ In the future, I aim to further explore the application of large-scale pre-train
   **Description**: As part of a university-level innovation and entrepreneurship project, I designed a drone based on Raspberry Pi ROS2 and LiDAR. The drone utilized ESP32S3 to develop basic flight control firmware and combined DC motors to build a quadcopter for forest fire detection.  
   **My Contribution**: Responsible for hardware assembly, flight control firmware development, and the integration of LiDAR data with drone path planning.
 
-- **Hexagon Chess Game Software**  
+- **Connect-6 Chess Game Software**  
   **Description**: Developed a hexagon chess game software using Java, implementing search optimization with PVS and Alpha-Beta-Minimax algorithms. The project won third place in the Anhui Provincial Computer Game Competition.  
   **My Contribution**: Independently implemented the game’s algorithms, optimized search performance, and developed a user-friendly interface.
 
