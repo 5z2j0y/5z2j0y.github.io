@@ -16,7 +16,7 @@ I am also passionate about embedded system development, with hands-on experience
 ## Educational Background
 - **Hefei University of Technology**  
   **Intelligent Science and Technology**, School of Computer Science — Sophomore  
-  I am currently pursuing a degree in Intelligent Science and Technology at Hefei University of Technology, studying courses such as computer vision, artificial intelligence, data structures and algorithms, and embedded systems.
+  I am currently pursuing a bachelor's degree in Intelligent Science and Technology at Hefei University of Technology, studying courses such as computer vision, artificial intelligence, data structures and algorithms, and embedded systems.
 
 ## Research Interests and Future Plans
 My research interests are broad and primarily focus on the following areas:
