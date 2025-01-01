@@ -1,3 +1,13 @@
+---
+excerpt: "About Me"
+title: "About Me"
+permalink: /
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.md
+---
+
 # About Me
 
 ## Personal Introduction
