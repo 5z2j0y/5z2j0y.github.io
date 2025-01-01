@@ -64,9 +64,10 @@ In the future, I aim to further explore the application of large-scale pre-train
 - **English Learning**: As an English enthusiast, I regularly engage in English reading and listening exercises during my free time.
 
 ## Contact Me
-- Email: [2023216904@mail.hfut.edu.cn](mailto:2023216904@mail.hfut.edu.cn)
-- GitHub: https://github.com/5z2j0y
-- Kaggle: https://www.kaggle.com/codingbearhsun
+
+- 邮箱: [2023216904@mail.hfut.edu.cn](mailto:2023216904@mail.hfut.edu.cn)
+- GitHub: [https://github.com/5z2j0y](https://github.com/5z2j0y)
+- Kaggle: [https://www.kaggle.com/codingbearhsun](https://www.kaggle.com/codingbearhsun)
 
 
 <!-- # 关于我
