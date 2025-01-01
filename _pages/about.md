@@ -11,7 +11,7 @@ redirect_from:
 # About Me
 
 ## Personal Introduction
-Hello! My name is Xiong Liyan, a sophomore majoring in Intelligent Science and Technology at the School of Computer Science, Hefei University of Technology. My academic and practical interests lie in the application of computer vision and machine learning, with a particular focus on generative models and dataset processing. During my free time, I delve into Python-based computer vision projects, such as utilizing Generative Adversarial Networks (GANs) for image generation, participating in dataset creation and deployment for object detection and semantic segmentation tasks, developing hand gesture recognition projects, and exploring multi-task learning and model fusion.
+Hello! My name is Xiong Liyan(中文: 熊立言), a sophomore majoring in Intelligent Science and Technology at the School of Computer Science, Hefei University of Technology. My academic and practical interests lie in the application of computer vision and machine learning, with a particular focus on generative models and dataset processing. During my free time, I delve into Python-based computer vision projects, such as utilizing Generative Adversarial Networks (GANs) for image generation, participating in dataset creation and deployment for object detection and semantic segmentation tasks, developing hand gesture recognition projects, and exploring multi-task learning and model fusion.
 
 I am also passionate about embedded system development, with hands-on experience in Arduino and STM32. Recently, I successfully deployed a facial tracking project on a K210 chip and servo gimbal, gaining practical experience and a deeper understanding of the complexities of hardware-software collaboration.
 
