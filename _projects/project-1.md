@@ -1,24 +1,26 @@
 ---
-title: "化学实验手势检查" 
-excerpt: "基于Orange Pi和RK3588芯片的化学实验操作正确性自动检测系统"
+title: "Chemical Laboratory Gesture Detection"
+excerpt: "An Automatic Detection System for Chemical Laboratory Operation Based on Orange Pi and RK3588"
 collection: projects
 ---
 
-# 项目描述
-基于Orange Pi和RK3588芯片,利用YOLO11-seg模型识别实验室常用仪器,同时通过多线程调用Mediapipe获取手部特征点检测手势。结合仪器定位和手势分析,实现了对化学实验操作(如倾倒、滴定等)正确性的自动检测。
+# Project Description
+Based on Orange Pi and RK3588 chip, this system uses YOLO11-seg model to recognize common laboratory equipment while detecting hand gestures through Mediapipe with multi-threading. By combining equipment positioning and gesture analysis, it achieves automatic detection of chemical experiment operations (such as pouring, titration, etc.).
 
-## 技术栈
-- YOLO11-seg模型训练与部署
-- Mediapipe手势识别
-- 多线程并行处理
-- Orange Pi / RK3588嵌入式开发
+{% include figure image_path="images\projects\chem-is-try\grabing_cylinder.png" alt="Gesture detection demo" caption="Real-time gesture detection in chemical laboratory operations" %}
 
-## 主要贡献
-1. 负责模型训练与优化
-2. 完成仪器识别、手势检测的多线程集成
-3. 设计并实现操作分析逻辑
+## Tech Stack
+- YOLO11-seg model training and deployment
+- Mediapipe gesture recognition
+- Multi-threaded parallel processing
+- Orange Pi / RK3588 embedded development
 
-## 项目效果
-- 实现了对常见化学实验操作的实时检测
-- 可准确识别实验器材并分析操作正确性
-- 支持多种实验操作类型的检测
+## Main Contributions
+1. Responsible for model training and optimization
+2. Completed multi-threaded integration of equipment recognition and gesture detection
+3. Designed and implemented operation analysis logic
+
+## Project Outcomes
+- Achieved real-time detection of common chemical laboratory operations
+- Accurately identifies laboratory equipment and analyzes operational correctness
+- Supports detection of multiple types of experimental operations
