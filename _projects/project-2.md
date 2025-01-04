@@ -12,6 +12,11 @@ Designed and built an intelligent sorting trash bin as a competition entry for t
     <p><em>Smart waste classification system overview</em></p>
 </div>
 
+<div style="text-align: center">
+    <img src="/images/projects/trash-can-can/classify_process.png" alt="YOLO Classify Process" width="35%" />
+    <p><em>YOLO Classify Process</em></p>
+</div>
+
 ## Repository Information
 [Trash-can-Can Repository](https://github.com/5z2j0y/Trash-can-Can)
 
