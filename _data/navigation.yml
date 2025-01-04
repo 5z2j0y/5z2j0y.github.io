@@ -5,9 +5,6 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publications"
-    url: /publications/
-
   - title: "Talks"
     url: /talks/    
 
@@ -26,5 +23,5 @@ main:
   - title: "Guide"
     url: /markdown/
 
-  - title: "项目"
+  - title: "Projects"
     url: /projects/
