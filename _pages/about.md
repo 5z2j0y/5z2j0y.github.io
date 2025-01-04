@@ -65,7 +65,7 @@ In the future, I aim to further explore the application of large-scale pre-train
 
 ## Contact Me
 
-- 邮箱: [2023216904@mail.hfut.edu.cn](mailto:2023216904@mail.hfut.edu.cn)
+- email: [2023216904@mail.hfut.edu.cn](mailto:2023216904@mail.hfut.edu.cn)
 - GitHub: [https://github.com/5z2j0y](https://github.com/5z2j0y)
 - Kaggle: [https://www.kaggle.com/codingbearhsun](https://www.kaggle.com/codingbearhsun)
 
