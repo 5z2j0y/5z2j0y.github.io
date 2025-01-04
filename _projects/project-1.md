@@ -8,8 +8,8 @@ collection: projects
 Based on Orange Pi and RK3588 chip, this system uses YOLO11-seg model to recognize common laboratory equipment while detecting hand gestures through Mediapipe with multi-threading. By combining equipment positioning and gesture analysis, it achieves automatic detection of chemical experiment operations (such as pouring, titration, etc.).
 
 <figure>
-  <img src="/images/projects/chem-is-try/grabing_cylinder.png" alt="Gesture detection demo">
-  <figcaption>实时手势识别效果展示</figcaption>
+  <img src="/images/projects/chem-is-try/grabing_cylinder.png" alt="Gesture detection demo" width="50%">
+  <figcaption>Gesture detection demo</figcaption>
 </figure>
 
 ## Tech Stack
