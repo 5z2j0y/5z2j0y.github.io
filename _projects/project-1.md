@@ -1,8 +1,8 @@
 ---
-title: "项目示例" 
-excerpt: "这是一个项目描述"
+title: "Projects_example" 
+excerpt: "hello world"
 collection: projects
 ---
 
-# 项目详情
-这里描述项目的具体内容...
+# 123
+456
