@@ -12,6 +12,12 @@ Based on Orange Pi and RK3588 chip, this system uses YOLO11-seg model to recogni
     <p><em>Gesture detection demo</em></p>
 </div>
 
+## Repository Information
+[Chem-is-Try Repository](https://github.com/5z2j0y/Chem-is-Try)
+
+> **Access Notice**: This is a private repository. To request access, Please contact me for authorization
+
+
 ## Tech Stack
 - YOLO11-seg model training and deployment
 - Mediapipe gesture recognition

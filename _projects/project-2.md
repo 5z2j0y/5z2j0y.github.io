@@ -12,6 +12,13 @@ Designed and built an intelligent sorting trash bin as a competition entry for t
     <p><em>Smart waste classification system overview</em></p>
 </div>
 
+## Repository Information
+[Trash-can-Can Repository](https://github.com/5z2j0y/Trash-can-Can)
+
+> **Access Notice**: This is a private repository. To request access, Please contact me for authorization
+
+
+
 ## Tech Stack
 - YOLO11 model training and ONNX deployment
 - Raspberry Pi 4B embedded development
