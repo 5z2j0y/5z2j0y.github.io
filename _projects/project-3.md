@@ -14,8 +14,8 @@ This project aims to spark students' interest through common plants in daily lif
 </div>
 
 <div style="text-align: center">
-    <img src="/images/projects/micro-leaf/classify_process.png" alt="Plant Map Teaching System Example" width="35%" />
-    <p><em>Plant Map Teaching System Example</em></p>
+    <img src="/images/projects/micro-leaf/classify_process.png" alt="Classify Algorithm Process" width="35%" />
+    <p><em>Classify Algorithm Process</em></p>
 </div>
 
 ## Tech Stack
@@ -23,7 +23,6 @@ This project aims to spark students' interest through common plants in daily lif
 - Leaf margin and tip distance calculation
 - Plant classification algorithms
 - Plant map embedding and scoring system
-- Multimedia presentation for teaching
 
 ## Main Contributions
 1. Designed and implemented the plant classification algorithm
