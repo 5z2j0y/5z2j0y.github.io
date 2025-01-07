@@ -1,6 +1,6 @@
 ---
 title: "Chemical Laboratory Gesture Detection"
-excerpt: "An Automatic Detection System for Chemical Laboratory Operation Based on Orange Pi and RK3588"
+excerpt: "An Automatic Detection System for Chemical Laboratory Operation Based on Orange Pi"
 collection: projects
 ---
 
