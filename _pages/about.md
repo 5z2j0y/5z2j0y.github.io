@@ -16,23 +16,23 @@ Remember those movies where the main character has a life-changing revelation? W
 
 * **Chapter 1**: Started in **Mechanical Engineering** (yes, I was all about nuts and bolts! 🔧)
 * **Chapter 2**: Had my "aha!" moment with **computer vision** (turns out machines can see - mind blown! 🤯)
-* **Chapter 3**: Joined the **Computer Vision Group** and never looked back
+* **Chapter 3**: Joined the school lab's **Computer Vision Group** and never looked back
 
 ## The Great Switch 🔄
 
 The transition wasn't just a random decision - it was more like falling in love! Here's what happened:
 
 * Found myself spending more time with **algorithms** than with gears
-* Got inspired by amazing seniors in the vision group (they're the real MVPs! 🏆)
-* Transferred to **Intelligent Science** department (best plot twist ever!)
+* Got inspired by amazing seniors in the school lab's vision group (they're the real MVPs! 🏆)
+* Transferred to **Intelligent Science and Technology** major 
 * Discovered my true passion in **AI**, especially after that mind-bending **Artificial Intelligence** course
 
-## Cross-Pollinating Ideas 🌸
+## Cross-Subject Ideas 🌸
 
 You know what's cooler than just AI? Mixing it with everything else! 
 
 * Teamed up with **Materials Science** folks for some crazy experiments
-* Combined **AI** with **Chemistry** (because why not make Chemistry even more explosive? 💥)
+* Combined **AI** with **Chemistry** (actually I'm poor in chemisty in high school 💥)
 * Discovered that the best ideas often come from **unexpected combinations**
 
 ## The Professor Dream ✨
@@ -40,7 +40,7 @@ You know what's cooler than just AI? Mixing it with everything else!
 Picture this: me, in a cozy campus villa, surrounded by research papers and curious students...
 
 * Fell in love with academia during a visit to **Westlake University**
-* Got starstruck by their futuristic academic ring (seriously, it's like stepping into 2050!)
+* Got starstruck by their futuristic building -- **academic ring** (countless high-tech labs in a ring shape)
 * Currently geeking out over:
   * **Multi-modal fusion networks**
   * **Conv+Transformer** architectures
@@ -48,12 +48,12 @@ Picture this: me, in a cozy campus villa, surrounded by research papers and curi
 
 ## Life Beyond Code 🎯
 
-Because even AI enthusiasts need to touch grass sometimes!
+It's not about a waste of time. It's about sending a message 🤡
 
-* Fitness fanatic 💪
-* Running enthusiast 🏃‍♂️
-* English book worm 📚
-* Dreamer of tech-powered futures 🚀
+* **Guitar player** 🎸 (with a Grade 5 Guitar Certification, but I'm shy that I'm only devoted in solo rather than sing out loud)
+* **Running enthusiast** 🏃‍♂️
+* **English book worm** 📚 (scored 643 in CET-6, how I wish I could use C++ as good as English 😘)
+* **Dreamer of tech-powered futures** 🚀
 
 ## The Bottom Line 📌
 
