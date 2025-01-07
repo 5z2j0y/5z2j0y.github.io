@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Stumbling through Compu Vision and AI"
+title                    : "Mixing Compu Vision and AI"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
