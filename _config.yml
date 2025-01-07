@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xiong's academic website"
+title                    : "a chill compu vision student"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -217,10 +217,6 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-  cv:
-    output: true
-    permalink: /:collection/:path/
-
 
 # These settings control how pages and collections are included in the site
 defaults:
@@ -246,15 +242,6 @@ defaults:
   - scope:
       path: ""
       type: projects
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _cv
-  - scope:
-      path: ""
-      type: cv
     values:
       layout: single
       author_profile: true
