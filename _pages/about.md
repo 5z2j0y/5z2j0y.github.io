@@ -71,7 +71,7 @@ public class FutureAI {
     public static void main(String[] args) {
         boolean aiRulesTheWorld = true;
         if (aiRulesTheWorld) {
-            System.out.println("If AI rules the world, I'll be making a life by labeling boring data...");
+            System.out.println("If AI rules the world, I'll make life by labeling boring data...");
             Runtime.getRuntime().exec("labelme");
             for (int i = 0; i < 1000; i++) System.out.println("Labeling data " + (i + 1));
         }
