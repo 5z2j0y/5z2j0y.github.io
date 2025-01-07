@@ -23,10 +23,10 @@ Designed and built an intelligent sorting trash bin as a competition entry for t
     <p><em>Mechanical Structure Diagram</em></p>
 </div>
 
-## Repository Information
+## Github Repository
 [Trash-can-Can Repository](https://github.com/5z2j0y/Trash-can-Can)
 
-> **Access Notice**: This is a private repository. To request access, Please contact me for authorization
+> **if 404 Error?**: This is a private repository. To request access, Please contact me for authorization
 
 
 
