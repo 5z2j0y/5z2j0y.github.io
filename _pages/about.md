@@ -27,7 +27,7 @@ The transition wasn't just a random decision - it was more like falling in love!
 * Transferred to **Intelligent Science and Technology** major 
 * Discovered my true passion in **AI**, especially after that mind-bending **Artificial Intelligence** course
 
-## Cross-Subject Ideas 🌸
+## Cross-Subject Ideas 🚀
 
 You know what's cooler than just AI? Mixing it with everything else! 
 
@@ -55,7 +55,7 @@ It's not about a waste of time. It's about sending a message 🤡
 * **English book worm** 📚 (scored 643 in CET-6, how I wish I could use C++ as good as English 😘)
 * **Dreamer of tech-powered futures** 🚀
 
-## The Bottom Line 📌
+## Finally 📌
 
 I'm just a guy who believes **AI** and **computer vision** can change the world, one pixel at a time! Whether it's building models, crafting vision systems, or dreaming up the next big tech breakthrough, I'm all in! 
 
@@ -64,3 +64,17 @@ Want to join me on this adventure? Let's connect and create something awesome to
 * Email: [2023216904@mail.hfut.edu.cn](mailto:2023216904@mail.hfut.edu.cn)
 * GitHub: [https://github.com/5z2j0y](https://github.com/5z2j0y)
 * Kaggle: [https://www.kaggle.com/codingbearhsun](https://www.kaggle.com/codingbearhsun)
+
+---
+```java
+public class FutureAI {
+    public static void main(String[] args) {
+        boolean aiRulesTheWorld = true;
+        if (aiRulesTheWorld) {
+            System.out.println("If AI rules the world, I'll be making a life by labeling boring data...");
+            Runtime.getRuntime().exec("labelme");
+            for (int i = 0; i < 1000; i++) System.out.println("Labeling data " + (i + 1));
+        }
+    }
+}
+```
