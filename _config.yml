@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "a chill compu vision student"
+title                    : "stumbling through CV and AI
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
