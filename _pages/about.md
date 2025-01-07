@@ -8,8 +8,6 @@ redirect_from:
   - /about.md
 ---
 
-## About Me
-
 Hello! I am Xiong Liyan, a sophomore student majoring in Intelligent Science and Technology at the School of Computer Science, Hefei University of Technology. In my academic and practical work, I focus particularly on the application of computer vision and machine learning, especially in the areas of generative models and dataset processing.
 
 ## Education Background
