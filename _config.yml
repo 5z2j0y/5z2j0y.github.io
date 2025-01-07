@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "stumbling through CV and AI
+title                    : "Stumbling through Compu Vision and AI"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "5z2j0y/5z2j0y.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Xiong Liyan"
+  name             : "Xiong Liyan (中文名: 熊立言)"
   pronouns         : "He/Him"  
   bio              : "被水淹没, 不知所措 QaQ"
   location         : "AnHui, China"
