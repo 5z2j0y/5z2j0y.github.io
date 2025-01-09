@@ -54,7 +54,6 @@ Hello! My name is Xiong Liyan(中文名: 熊立言), a sophomore majoring in Int
 * **Connect-6 Chess Game Software**
   * Developed hexagon chess game in Java
   * Implemented PVS and Alpha-Beta-Minimax algorithms
-  * Won third place in Anhui Provincial Computer Game Competition
 
 ## Contact Information
 * Email: [2023216904@mail.hfut.edu.cn](mailto:2023216904@mail.hfut.edu.cn)
