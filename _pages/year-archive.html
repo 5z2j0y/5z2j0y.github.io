@@ -14,8 +14,10 @@ redirect_from:
   function checkPassword() {
     var password = prompt("请输入密码:");
     if (password === "123") {
+      console.log("密码正确");
       document.getElementById("privateposts").style.display = "block";
     } else {
+      console.log("密码错误");
       alert("密码错误");
     }
   }
