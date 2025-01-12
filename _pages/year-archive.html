@@ -9,6 +9,20 @@ redirect_from:
 
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
+
+<script>
+  function checkPassword() {
+    var password = prompt("请输入密码:");
+    if (password === "123") {
+      document.getElementById("privateposts").style.display = "block";
+    } else {
+      alert("密码错误");
+    }
+  }
+</script>
+
+<button onclick="checkPassword()">加载私人文章</button>
+
 {% for post in site.posts %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% if year != written_year %}
@@ -17,3 +31,15 @@ redirect_from:
   {% endif %}
   {% include archive-single.html %}
 {% endfor %}
+
+<div id="privateposts" style="display:none;">
+  {% capture written_year %}'None'{% endcapture %}
+  {% for post in site.privateposts %}
+    {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+    {% if year != written_year %}
+      <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+      {% capture written_year %}{{ year }}{% endcapture %}
+    {% endif %}
+    {% include archive-single.html %}
+  {% endfor %}
+</div>

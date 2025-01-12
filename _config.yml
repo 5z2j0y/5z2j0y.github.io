@@ -230,6 +230,19 @@ defaults:
       comments: true
       share: true
       related: true
+
+  # _privateposts
+  - scope:
+      path: ""
+      type: privateposts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
   # _pages
   - scope:
       path: ""
@@ -269,7 +282,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
-  - jekyll-encrypt
+
 
 # Mimic GitHub Pages with --safe
 whitelist:
@@ -279,7 +292,7 @@ whitelist:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
-  - jekyll-encrypt
+ 
 
 
 # Archives
@@ -317,6 +330,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-jekyll_encrypt:
-  password: "123"
