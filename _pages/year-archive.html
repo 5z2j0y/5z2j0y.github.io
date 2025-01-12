@@ -15,7 +15,7 @@ redirect_from:
     var password = prompt("请输入密码:");
     if (password === "123") {
       console.log("密码正确");
-      document.getElementById("privateposts").style.display = "block";
+      window.location.href = "https://5z2j0y.github.io/privateposts/";
     } else {
       console.log("密码错误");
       alert("密码错误");
@@ -33,15 +33,3 @@ redirect_from:
   {% endif %}
   {% include archive-single.html %}
 {% endfor %}
-
-<div id="privateposts" style="display:none;">
-  {% capture written_year %}'None'{% endcapture %}
-  {% for post in site.privateposts %}
-    {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-    {% if year != written_year %}
-      <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
-      {% capture written_year %}{{ year }}{% endcapture %}
-    {% endif %}
-    {% include archive-single.html %}
-  {% endfor %}
-</div>
