@@ -1,12 +1,9 @@
 ---
-layout: archive
-title: "Secret!"
+layout: default
+title: "XLY Page"
 permalink: /xly/
-author_profile: true 
-redirect_from:
-  - /resume
+nav_exclude: true
 ---
-{% include base_path %}
 
 <script>
   function checkPassword() {
@@ -20,3 +17,5 @@ redirect_from:
     }
   }
 </script>
+
+<button onclick="checkPassword()">Load Private Posts</button>
