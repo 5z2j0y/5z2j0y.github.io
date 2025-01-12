@@ -28,15 +28,19 @@ redirect_from:
 </div>
 
 <script>
-  function checkPassword() {
-    var password = document.getElementById('password').value;
-    var correctPassword = '123'; // 替换为你的静态密码
+  document.addEventListener('DOMContentLoaded', function() {
+    function checkPassword() {
+      var password = document.getElementById('password').value;
+      var correctPassword = '123'; // 替换为你的静态密码
 
-    if (password === correctPassword) {
-      document.getElementById('password-protect').style.display = 'none';
-      document.getElementById('content').style.display = 'block';
-    } else {
-      document.getElementById('error-message').style.display = 'block';
+      if (password === correctPassword) {
+        document.getElementById('password-protect').style.display = 'none';
+        document.getElementById('content').style.display = 'block';
+      } else {
+        document.getElementById('error-message').style.display = 'block';
+      }
     }
-  }
+
+    document.querySelector('button').onclick = checkPassword;
+  });
 </script>
