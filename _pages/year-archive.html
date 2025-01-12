@@ -12,18 +12,18 @@ redirect_from:
 
 <script>
   function checkPassword() {
-    var password = prompt("请输入密码:");
+    var password = prompt("Please enter the password:");
     if (password === "123") {
-      console.log("密码正确");
+      console.log("Password correct");
       window.location.href = "https://5z2j0y.github.io/privateposts/";
     } else {
-      console.log("密码错误");
-      alert("密码错误");
+      console.log("Password incorrect");
+      alert("Password incorrect");
     }
   }
 </script>
 
-<button onclick="checkPassword()">加载私人文章</button>
+<button onclick="checkPassword()">Load Private Posts</button>
 
 {% for post in site.posts %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
