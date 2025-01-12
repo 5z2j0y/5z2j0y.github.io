@@ -279,6 +279,7 @@ whitelist:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+  - jekyll-encrypt
 
 
 # Archives
