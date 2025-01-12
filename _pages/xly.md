@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Secret!"
-permalink: /post/
+permalink: /xly/
 author_profile: true 
 redirect_from:
   - /resume
