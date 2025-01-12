@@ -1,46 +1,11 @@
 ---
 layout: archive
-permalink: /year-archive/
-title: "Blog posts"
-author_profile: true
-redirect_from:
-  - /wordpress/blog-posts/
+title: "Page Archive"
+permalink: /page-archive/
+author_profile: false
 ---
 
-<div id="password-protect">
-  <h2>请输入密码查看博客</h2>
-  <input type="password" id="password" placeholder="输入密码">
-  <button onclick="checkPassword()">提交</button>
-  <p id="error-message" style="color: red; display: none;">密码错误，请重试。</p>
-</div>
-
-<div id="content" style="display: none;">
-  {% include base_path %}
-  {% capture written_year %}'None'{% endcapture %}
-  {% for post in site.posts %}
-    {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-    {% if year != written_year %}
-      <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
-      {% capture written_year %}{{ year }}{% endcapture %}
-    {% endif %}
-    {% include archive-single.html %}
-  {% endfor %}
-</div>
-
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    function checkPassword() {
-      var password = document.getElementById('password').value;
-      var correctPassword = '123'; // 替换为你的静态密码
-
-      if (password === correctPassword) {
-        document.getElementById('password-protect').style.display = 'none';
-        document.getElementById('content').style.display = 'block';
-      } else {
-        document.getElementById('error-message').style.display = 'block';
-      }
-    }
-
-    document.querySelector('button').onclick = checkPassword;
-  });
-</script>
+{% include base_path %}
+{% for post in site.pages %}
+  {% include archive-single.html %}
+{% endfor %}
