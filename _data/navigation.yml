@@ -16,8 +16,8 @@ main:
   - title: "Awards and Certifications"
     url: /awards/
 
-#  - title: "Private Blog"
-#    url: /privateposts/
+  - title: "Algorithms"  # 添加新的导航项
+    url: /algorithms/    # 对应您创建的算法集合页面的permalink
 
   - title: "Blog Posts"
     url: /year-archive/

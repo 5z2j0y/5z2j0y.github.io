@@ -1,12 +1,14 @@
 ---
 title: 'Future Blog Post'
-date: 2999-01-01
+date: 1949-10-01
 permalink: /posts/2025/01/top/
 tags:
   - Cool
   - Future
   - Reflection
 ---
+
+「诞生して、すみません」
 
 I'm quite interested in Auto ML recently. It's strange that this approach hasn't become widespread in China, otherwise **impotent people** like me would all be unemployed lmao 🤖
 
