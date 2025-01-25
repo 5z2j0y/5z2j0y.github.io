@@ -16,4 +16,6 @@ Ever since I started working in computer vision, I've always been given *weird r
 
 The more I learn about ML, the more I realize how **inadequate** I am. Sometimes I wish I was born ten years earlier. Now every interesting project has been patented, and my skills aren't good enough to propose new algorithms without focusing on applications. It's emo time now. 😢
 
-I hope AI takes over humanity soon. *Born as a human, I'm sorry*. 🤷‍♂️
+I hope AI takes over humanity soon. 
+
+> Born as a human, I'm sorry. 🤷‍♂️
