@@ -1,7 +1,7 @@
 ---
 title: 'Future Blog Post'
 date: 2999-01-01
-
+permalink: /posts/2025/01/blog-post-3/
 tags:
   - Cool
   - Future
