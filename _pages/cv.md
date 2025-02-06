@@ -14,10 +14,9 @@ Hello! My name is Xiong Liyan（中文名：熊立言）, a sophomore majoring i
 
 ## Education
 * Hefei University of Technology
-  * Bachelor in Intelligent Science and Technology, School of Computer Science — Sophomore
-  * Relevant coursework: computer vision, artificial intelligence, data structures and algorithms, embedded systems
-  * the head of the vision group at the Intelligent Robotics Laboratory, Engineering Quality Education Center.
-
+  * Currently pursuing B.S. in Intelligent Science and Technology, School of Computer Science (Expected 2027)
+  * Relevant coursework: computer vision, language model, machine learning, deep learning, data structures and algorithms, embedded systems
+  * The head of the vision group at the Intelligent Robotics Laboratory, Engineering Quality Education Center.
 
 ## Research Interests and Future Plans
 * GAN + VAE + CLIP
