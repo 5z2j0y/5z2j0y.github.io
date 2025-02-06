@@ -26,7 +26,7 @@ Hello! My name is Xiong Liyan, a sophomore majoring in Intelligent Science and T
 * Multimodal Neural Networks
 
 ## Skills and Competencies
-* Programming Languages: Python, C++, MATLAB
+* Programming Languages: Python, C++, MATLAB, H5, Wechat Mini Program
 * Computer Vision and Machine Learning:
   * GAN-based image generation
   * Object detection and semantic segmentation
@@ -40,6 +40,10 @@ Hello! My name is Xiong Liyan, a sophomore majoring in Intelligent Science and T
   * Arduino and STM32 platform development
   * K210 chip deployment experience
   * EDA and PCB design
+* ROS(Robot Operating System) and Robotics
+  * ROS2 deployment
+  * SLAM and lidar
+  * path planning and control
 * Language Skills: English (CET-6 643marks)
 
 ## Project Experience
