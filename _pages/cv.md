@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Personal Introduction
-Hello! My name is Xiong Liyan, a sophomore majoring in Intelligent Science and Technology at the School of Computer Science, Hefei University of Technology. My academic and practical interests lie in the application of computer vision and machine learning, with a particular focus on practical project applications and embedded deployment. Recently, I have been exploring ViT models such as CLIP, hoping to develop in the direction of LLM+CV.
+Hello! My name is Xiong Liyan（中文名：熊立言）, a sophomore majoring in Intelligent Science and Technology at the School of Computer Science, Hefei University of Technology. My academic and practical interests lie in the application of computer vision and machine learning, with a particular focus on practical project applications and embedded deployment. Recently, I have been exploring ViT models such as CLIP, hoping to develop in the direction of LLM+CV.
 
 ## Education
 * Hefei University of Technology
