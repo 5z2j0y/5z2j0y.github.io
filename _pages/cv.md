@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Personal Introduction
-Hello! My name is Xiong Liyan(中文名: 熊立言), a sophomore majoring in Intelligent Science and Technology at the School of Computer Science, Hefei University of Technology. My academic and practical interests lie in the application of computer vision and machine learning, with a particular focus on generative models and dataset processing.
+Hello! My name is Xiong Liyan, a sophomore majoring in Intelligent Science and Technology at the School of Computer Science, Hefei University of Technology. My academic and practical interests lie in the application of computer vision and machine learning, with a particular focus on practical project applications and embedded deployment. Recently, I have been exploring ViT models such as CLIP, hoping to develop in the direction of LLM+CV.
 
 ## Education
 * Hefei University of Technology
@@ -20,9 +20,9 @@ Hello! My name is Xiong Liyan(中文名: 熊立言), a sophomore majoring in Int
 
 
 ## Research Interests and Future Plans
-* Generative Models and Image Analysis
+* GAN + VAE + CLIP
 * Object Detection and Semantic Segmentation
-* Multi-Task Learning and Model Fusion
+* Detr and other ViT Models
 * Multimodal Neural Networks
 
 ## Skills and Competencies
@@ -32,9 +32,14 @@ Hello! My name is Xiong Liyan(中文名: 熊立言), a sophomore majoring in Int
   * Object detection and semantic segmentation
   * Hand pose estimation
   * Multi-task learning and model fusion
+* Natural Language Processing and Large Language Models
+  * Building GPT-like models
+  * Instruction fine-tuning and classification fine-tuning
+  * LoRA fine-tuning
 * Embedded System Development:
   * Arduino and STM32 platform development
   * K210 chip deployment experience
+  * EDA and PCB design
 * Language Skills: English (CET-6 643marks)
 
 ## Project Experience
@@ -52,6 +57,11 @@ Hello! My name is Xiong Liyan(中文名: 熊立言), a sophomore majoring in Int
   * Designed drone based on Raspberry Pi ROS2 and LiDAR
   * Developed ESP32S3 flight control firmware
   * Implemented drone path planning
+
+* **Humor Instruction Model Based on LoRA Fine-tuning**
+  * Fine-tuned based on Gemma-2-2b-it
+  * Self-made dataset from web crawling, carefully curated humor and satire works and jokes
+  * Enhanced model responses with more humor
 
 * **Connect-6 Chess Game Software**
   * Developed hexagon chess game in Java
